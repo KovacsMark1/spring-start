@@ -1,0 +1,8 @@
+username: user
+password: pass
+driver-class-name: org.h2.Driver
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web: INFO
